@@ -34,7 +34,7 @@ on:
 env:
 #edit your values here
   BUILD_ENVIRONMENT_URL: 'https://capgeminice.crm4.dynamics.com'
-  PRODUCTION_ENVIRONMENT_URL: 'https://org9c9342b6.api.crm4.dynamics.com'
+  PRODUCTION_ENVIRONMENT_URL: 'https://org9c9342b6.crm4.dynamics.com'
   USERNAME: 'matteo.ganci@capgeminice.onmicrosoft.com'
 
 jobs:
