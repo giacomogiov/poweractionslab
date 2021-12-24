@@ -1,0 +1,9 @@
+<environmentvariabledefinition schemaname="cr23d_SampleEnvironmentVariable">
+  <displayname default="Sample Environment Variable">
+    <label description="Sample Environment Variable" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.1.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000000</type>
+</environmentvariabledefinition>
